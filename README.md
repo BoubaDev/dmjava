@@ -1,8 +1,8 @@
 Installation tutorial
 
 Before integration the project, make sure that your IntelliJ Settings use the following
-•	Maven 3.3 or higher
-•	JDK 1.8
+-	Maven 3.3 or higher
+-	JDK 1.8
 
 To integrate and run the project into IntelliJ, follow these steps
 
@@ -14,9 +14,9 @@ To integrate and run the project into IntelliJ, follow these steps
 6.	Make sure the JDK 1.8 is selected, then click Next
 7.	You can change the project Name and location or leave it as is, then click Finish
 8.	Run the test file
-o	Navigate to the file PartitionUtilsTest
-o	Right click on the partition() function, the click on Run’partition()’
-o	You can change the values of liste[] and taille to perform more tests
+-	Navigate to the file PartitionUtilsTest
+-	Right click on the partition() function, the click on Run’partition()’
+-	You can change the values of liste[] and taille to perform more tests
  
 
 Note: The jar file of the project is located in root of the target folder
